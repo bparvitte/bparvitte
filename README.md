@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 ## Star History
-[! [Star History Chart](https://api.star-history.com/svg?repos=bytebase/star-history&type=Date)](htt
-ps://star-history.com/#bytebase/star-history&Date)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rougier/scientific-visualization-book,rougier/numpy-100,matplotlib/cheatsheets,rougier/from-python-to-numpy,rougier/nano-emacs&type=Date)](https://star-history.com/#rougier/scientific-visualization-book&rougier/numpy-100&matplotlib/cheatsheets&rougier/from-python-to-numpy&rougier/nano-emacs&Date)
