@@ -26,6 +26,7 @@ jobs:
 
           # Options
           user: bparvitte
+          org: sla-gsma
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
